@@ -1,0 +1,1 @@
+DataGridView1.DefaultCellStyle.ForeColor = Color.Black 

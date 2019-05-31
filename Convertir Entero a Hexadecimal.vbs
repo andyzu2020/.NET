@@ -1,0 +1,1 @@
+Dim Hexadecimal AS String = Convert.ToString(Entero, 16)

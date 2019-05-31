@@ -1,0 +1,1 @@
+combobox1.DropDownStyle = ComboBoxStyle.DropDownList

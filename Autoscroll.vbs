@@ -1,0 +1,1 @@
+objeto_que_se_desea_tenga_autoscroll.ScrollToCaret()

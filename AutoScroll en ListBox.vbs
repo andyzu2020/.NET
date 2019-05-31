@@ -1,0 +1,1 @@
+lstbx.TopIndex = lstbx.Items.Count - 1

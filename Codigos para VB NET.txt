@@ -1,0 +1,10 @@
+'Código para abrir un cmd en segundo plano y controlar que se cierre.
+
+Dim comillas As String = """"
+Dim myProcess As Process = Process.Start("cmd.exe", "/c start " & comillas & ruta & "/baseResourse.vbs" & comillas)
+
+' Si el proceso no se termino en 10 segundos lo termino
+myProcess.WaitForExit(10000)
+If Not myProcess.HasExited Then
+    myProcess.Kill()
+End If

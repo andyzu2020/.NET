@@ -1,0 +1,1 @@
+DateTime.Now.ToShortTimeString() & " del dia " & DateTime.Now.ToString("dd/MM/yyyy")
