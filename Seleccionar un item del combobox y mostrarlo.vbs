@@ -1,0 +1,1 @@
+Me.combobox.SelectedItem = combobox.Items.Item(0).ToString

@@ -1,0 +1,1 @@
+Dim ruta As String = Application.StartupPath

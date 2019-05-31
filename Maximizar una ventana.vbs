@@ -1,0 +1,1 @@
+Me.WindowState = FormWindowState.Maximized
